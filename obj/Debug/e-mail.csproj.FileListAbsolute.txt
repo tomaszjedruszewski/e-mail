@@ -1,0 +1,12 @@
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\bin\Debug\e-mail.exe.config
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\bin\Debug\e-mail.exe
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\bin\Debug\e-mail.pdb
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\obj\Debug\e-mail.csprojResolveAssemblyReference.cache
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\obj\Debug\e_mail.Form1.resources
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\obj\Debug\e_mail.Properties.Resources.resources
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\obj\Debug\e-mail.csproj.GenerateResource.Cache
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\obj\Debug\e-mail.exe
+c:\users\tomasz\documents\visual studio 2013\Projects\e-mail\e-mail\obj\Debug\e-mail.pdb
+C:\Users\Tomasz\Desktop\e-mail\e-mail\bin\Debug\e-mail.exe.config
+C:\Users\Tomasz\Desktop\e-mail\e-mail\obj\Debug\e-mail.exe
+C:\Users\Tomasz\Desktop\e-mail\e-mail\obj\Debug\e-mail.pdb

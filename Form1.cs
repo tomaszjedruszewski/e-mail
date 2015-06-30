@@ -29,6 +29,12 @@ namespace e_mail
             ToolTip3.SetToolTip(this.textBox2, "Podaj treść wiadomości.");
             System.Windows.Forms.ToolTip ToolTip4 = new System.Windows.Forms.ToolTip();
             ToolTip4.SetToolTip(this.button1, "Po naciśnięciu przyciusku wiadomość zostanie wysłana.");
+            System.Windows.Forms.ToolTip ToolTip5 = new System.Windows.Forms.ToolTip();
+            ToolTip5.SetToolTip(this.textBox3, "Podaj swój adres e-mail.");
+            System.Windows.Forms.ToolTip ToolTip6 = new System.Windows.Forms.ToolTip();
+            ToolTip6.SetToolTip(this.textBox4, "Podaj hasło do swojej poczty e-mail.");
+            System.Windows.Forms.ToolTip ToolTip7 = new System.Windows.Forms.ToolTip();
+            ToolTip7.SetToolTip(this.textBox5, "Podaj host swojej poczty. Przykładowo dla serwisu wp.pl host to smtp.wp.pl");
         }
 
         private void button1_Click(object sender, EventArgs e)
